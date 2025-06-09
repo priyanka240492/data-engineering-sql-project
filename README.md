@@ -1,1 +1,1 @@
-# data-engineering-sql-project
+# data-engineering-project
